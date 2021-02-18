@@ -1,0 +1,11 @@
+* {
+	padding: 0;
+	margin: 0;
+	border: 0;
+}
+
+body {
+	background-image: url('../images/bg-pattern.svg');
+	background-repeat: no-repeat;
+}
+
