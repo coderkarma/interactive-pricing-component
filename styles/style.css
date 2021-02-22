@@ -15,16 +15,17 @@ body {
 	justify-content: center;
 	align-items: center;
 }
-
-.container__card {
-	min-width: 10rem;
-	max-width: 20rem;
-	border: 1px solid black;
-	background-color: red;
-	padding: 1rem;
+.header {
+	margin-bottom: 9rem;
+	margin-top: 4rem;
 }
 
-/* .container__card, p {
-	font-size: 100px;
-	color: blue;
-} */
+.container__card {
+	min-width: 34rem;
+	min-height: 24em;
+	border: 1px solid black;
+	background-color: red;
+	padding-top: 1rem;
+	border-radius: 5px;
+	box-shadow: 1px snow #89e2df;
+}
